@@ -15,9 +15,9 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:textSize="20dp"
-        android:background="#84c0c5"
+        android:background="@color/colorTextBackground"
         android:text="Hello World!"
-        android:textColor="#ffffff"
+        android:textColor="@color/colorText"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
